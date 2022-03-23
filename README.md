@@ -8,3 +8,5 @@
 7) Check functionality of validate Email address with special character i.e.@.
 8) Ensure “.” after bridgelabz and validate the mandatory 3rd part i.e. co.
 9) Modified regex pattern to match the optional part in Email
+10)Finally close the expression with supporting optional parts.
+
