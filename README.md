@@ -5,4 +5,4 @@
 4) Add Alphabet at end of PinCode.
 5) Creating space in between PinCode number.
 6) Create Regex pattern to check functionality of validate Email address.
-    
+7) Check functionality of validate Email address with special character i.e.@.   
